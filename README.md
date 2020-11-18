@@ -1,3 +1,1 @@
-# android_notepad
-This is an android notepad demo applicaqtion(supporting including text/photos/videos content).
-安卓平台记事本(便条本)小程序(支持插入文本/图片/视频内容).
+支持增删改查以及插入图片的记事本demo
